@@ -9,7 +9,7 @@ The arguments usually involves two main points:
   technology transfer to geopolitical rivals.
 * The Big Tech: The feeling of becoming powerless in the face of "Big Tech" that absorb community created data and code, ignoring licenses and copyright and selling "intelligence".
 
-But not only that, AI slop and aggressive bots and accelerated AI-enabled cybersecurity incidents are challenging infrastructures, services and Open Source communities.
+But not only that, AI slop, aggressive bots and accelerated AI-enabled cybersecurity incidents are challenging infrastructures, services and Open Source communities.
 
 In this repo, we will collect few links - we probably need to come up with some text very soon to defend open science, once again :(
 
