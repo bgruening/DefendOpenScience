@@ -21,6 +21,7 @@ In this repo, we will collect few links - we probably need to come up with some 
 * https://open-science-future.zbw.eu/en/value-of-open-science/
 * https://trustedci.github.io/OSCRP/OSCRP.html
 * https://www.nature.com/articles/s41599-024-03804-w
+* https://opendefinition.org/
 
 ### AI Slop
 
